@@ -25,6 +25,8 @@ PRASASTI-DSR-Repository
 │
 └── Respon to Reviewer - English - BS 1.1.docx
 │
+└── 2026-Paper 3 - DSR ITSP  - Bambang  S - Template IJIES - INASS - V 3.8gra (Eng) - Rev 1.5 - Round 1.pdf
+│
 └── README.md
 
 Each file represents a different role in the research workflow, from manuscript explanation, artifact evaluation, to revision documentation.
@@ -263,6 +265,15 @@ artifact evaluation evidence;
 reproducibility materials.
 Citation
 
+**4. ## Turnitin Similarity Verification
+File 2026-Paper 3 - DSR ITSP  - Bambang  S - Template IJIES - INASS - V 3.8gra (Eng) - Rev 1.5 - Round 1.pdf
 
 
+A similarity check was conducted using Turnitin to evaluate the originality and academic integrity of this research work.
+
+ ### Similarity Statement
+
+The Turnitin similarity analysis indicates that this manuscript has a similarity index of **13%** with sources indexed in the Turnitin database. The result demonstrates that the manuscript has been reviewed for originality and potential text overlap.
+
+The similarity report is provided as supplementary documentation to support research transparency and academic integrity.
 
