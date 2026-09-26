@@ -1,272 +1,268 @@
-# PRASASTI IT Strategic Planning – Reproducibility Materials
+**PRASASTI Framework**
+Design Science Research Supporting Materials Repository
+
+This repository contains supplementary materials supporting the research article:
+
+"A Design Science Research Approach for Developing an Integrated Information Technology Strategic Planning Framework"
+
+The research proposes PRASASTI, an integrated Information Technology Strategic Planning framework developed using the Design Science Research (DSR) approach.
+
+**PRASASTI integrates:**
+Ward and Peppard Framework for strategic analysis and IT portfolio planning;
+TOGAF ADM for enterprise architecture development;
+COBIT 2019 for IT governance, capability assessment, risk control, and performance measurement.
+
+The repository is provided to support research transparency, validation verification, and reproducibility of the artifact development and evaluation process.
+
+**REPOSITORY Structure**
+The repository contains three main documents:
+
+PRASASTI-DSR-Repository
+│
+├── 2026-DSR kertas kerja Data & perhitungan - V 1.1.xlsx
+│
+├── 2026-Paper 3 - DSR ITSP - Bambang S - Template IJIES - INASS - V 3.8gra (Eng) - Rev 1.5 - Round 1.docx
+│
+└── Respon to Reviewer - English - BS 1.1.docx
+│
+└── README.md
+
+Each file represents a different role in the research workflow, from manuscript explanation, artifact evaluation, to revision documentation.
+
+**1. Research Manuscript**
+File : 2026-Paper 3 - DSR ITSP - Bambang S - Template IJIES - INASS - V 3.8gra (Eng) - Rev 1.5 - Round 1.docx
+
+Purpose
+This document represents the revised scientific manuscript submitted to the journal.
+
+The manuscript explains:
+#research background and identified problems;
+#research gap and novelty;
+#Design Science Research methodology;
+#PRASASTI framework development;
+#integration mechanism between Ward and Peppard, TOGAF ADM, and COBIT 2019;
+#artifact evaluation process;
+#expert validation results;
+#discussion, limitation, and research contribution.
+
+The manuscript positions PRASASTI as a research artifact developed and evaluated through DSR rather than as an empirical organizational maturity measurement model.
+
+The evaluation focuses on expert assessment of:
+#completeness;
+#relevance;
+#consistency;
+#feasibility;
+#applicability of the proposed framework.
+
+**2. DSR Artifact Evaluation Calculation Workbook**
+File 2026-DSR kertas kerja Data & perhitungan - V 1.1.xlsx
+
+Purpose
+This workbook contains the detailed calculation process used for evaluating the PRASASTI artifact.
+The file provides supporting evidence for the statistical evaluation reported in the manuscript.
+The calculation workbook includes:
+
+**A. Expert Evaluation Data Processing**
+The workbook documents the processing of expert assessment results, including:
+#expert evaluation responses;
+#scoring aggregation;
+#dimension-level calculation;
+#evaluation summary.
+
+**B. Validity Analysis**
+The following statistical evaluations are calculated:
+#Content Validity Ratio (CVR);
+#Content Validity Index (CVI);
+#Aiken's V.
+These analyses evaluate whether each proposed PRASASTI component is considered relevant by experts.
+
+**C. Reliability and Consensus Analysis**
+The workbook includes:
+#Cronbach's Alpha analysis;
+#Kendall's W agreement analysis;
+#Delphi consensus calculation using Interquartile Range (IQR).
+
+Each file represents a different role in the research workflow, from manuscript explanation, artifact evaluation, to revision documentation.
+
+1. Research Manuscript
+File 2026-Paper 3 - DSR ITSP - Bambang S - Template IJIES - INASS - V 3.8gra (Eng) - Rev 1.5 - Round 1.docx
+Purpose
+This document represents the revised scientific manuscript submitted to the journal.
+The manuscript explains:
+#research background and identified problems;
+#research gap and novelty;
+#Design Science Research methodology;
+#PRASASTI framework development;
+#integration mechanism between Ward and Peppard, TOGAF ADM, and COBIT 2019;
+#artifact evaluation process;
+#expert validation results;
+#discussion, limitation, and research contribution.
+
+The manuscript positions PRASASTI as a research artifact developed and evaluated through DSR rather than as an empirical organizational maturity measurement model.
+
+The evaluation focuses on expert assessment of:
+completeness;
+relevance;
+consistency;
+feasibility;
+applicability of the proposed framework.
+
+**2. DSR Artifact Evaluation Calculation Workbook**
+File2026-DSR kertas kerja Data & perhitungan - V 1.1.xlsx
+
+Purpose
+This workbook contains the detailed calculation process used for evaluating the PRASASTI artifact.
+The file provides supporting evidence for the statistical evaluation reported in the manuscript.
+The calculation workbook includes:
+
+**A. Expert Evaluation Data Processing**
+
+The workbook documents the processing of expert assessment results, including:
+expert evaluation responses;
+scoring aggrega****tion;
+dimension-level calculation;
+evaluation summary.
+
+**B. Validity Analysis**
+The following statistical evaluations are calculated:
+Content Validity Ratio (CVR);
+Content Validity Index (CVI);
+Aiken's V.
+
+These analyses evaluate whether each proposed PRASASTI component is considered relevant by experts.
+
+**C. Reliability and Consensus Analysis**
+The workbook includes:
+Cronbach's Alpha analysis;
+Kendall's W agreement analysis;
+Delphi consensus calculation using Interquartile Range (IQR).
+
+**D. Expert-Assessed Applicability Index**
+The final calculation provides the expert-assessed applicability evaluation of the PRASASTI framework.
+Important clarification:
+The calculated index represents:
+Expert perception regarding the applicability and feasibility of the PRASASTI artifact.
+It does not represent:
+organizational maturity level;
+actual organizational readiness;
+implementation success measurement.
+
+This interpretation follows the revision requested by reviewers, where the terminology was changed from "readiness index" into "expert-assessed applicability index" to avoid construct validity ambiguity.
+
+**3. Response to Reviewer Document**
+File Respon to Reviewer - English - BS 1.1.docx
+
+Purpose
+This document contains the authors' responses to reviewer comments during the manuscript revision process.
+
+The document provides:
+reviewer comments;
+author responses;
+explanation of manuscript revisions;
+description of additional analysis and clarification.
+
+The response document demonstrates how reviewer feedback was addressed systematically.
+
+ Research Structure Clarification
+
+The manuscript structure was revised to explain the organization of sections and research flow.
+
+Quantitative Calculation Clarification
+
+Statistical calculations and rounding rules were clarified to ensure consistency for:
+CVR;
+CVI;
+Aiken's V;
+Cronbach's Alpha;
+Kendall's W;
+IQR.
+
+The revised manuscript states that calculations use original numerical values while reported values are rounded consistently for readability.
+
+Artifact Evaluation Interpretation
+
+The reviewer identified that expert evaluation should not be interpreted as organizational readiness. The manuscript was revised by redefining the evaluation outcome as expert-assessed applicability of the framework artifact.
+
+Relationship Between Files
+
+The three files are interconnected as follows:
+
+                 Research Manuscript
+                        │
+                        │
+                        ▼
+        PRASASTI Framework Development
+                        │
+                        ▼
+        Expert-Based Artifact Evaluation
+                        │
+                        ▼
+        Calculation Workbook
+                        │
+                        ▼
+        Statistical Validation Evidence
+                        │
+                        ▼
+        Reviewer Response Document
+                        │
+                        ▼
+        Revision Traceability
+Reproducibility Information
+
+The repository supports verification of the following research processes:
+
+Artifact Development
+
+Research Manuscript
+
+Provides explanation of:
+framework design;
+integration mechanism;
+research methodology.
+Artifact Evaluation
+
+Supported by:
+DSR Calculation Workbook
+
+Provides:
+calculation procedures;
+statistical evidence;
+evaluation results.
+Revision Transparency
+
+Supported by:
+Response to Reviewer
+
+Provides:
+reviewer feedback;
+revision explanation;
+manuscript improvement history.
+Software and Calculation Notes
+Spreadsheet
+
+The calculation workbook was developed using:
+Microsoft Excel compatible spreadsheet software.
+Statistical Calculation Rules
+
+All statistical indicators were calculated using original numerical values.
+
+For reporting purposes:
+numerical results were rounded consistently;
+rounding does not affect underlying calculations.
+Intended Use
+
+This repository is intended for:
+reviewers;
+researchers interested in Design Science Research;
+practitioners studying IT strategic planning frameworks;
+researchers who want to understand PRASASTI development and evaluation.
+
+The repository does not provide a software implementation system. Instead, it provides:
+research documentation;
+artifact evaluation evidence;
+reproducibility materials.
+Citation
 
-This repository provides the reproducibility and calculation materials
-supporting the validation of the PRASASTI framework proposed in the study.
 
-The repository is intended to improve transparency by documenting the
-data structure, calculation procedures, validation methods, expert
-evaluation, Delphi consensus analysis, applicability assessment, and
-gap analysis used in the research.
 
-## 1. Research Context
 
-PRASASTI is an integrated IT strategic planning framework combining
-strategic planning, enterprise architecture, and IT governance concepts.
-
-The validation procedure evaluates the framework using expert assessment
-and does not represent a direct measurement of organizational maturity.
-The resulting applicability index therefore represents expert-assessed
-applicability and perceived implementation feasibility of the framework.
-
-## 2. Data and Expert Evaluation
-
-The validation dataset contains responses from 19 experts.
-
-The expert assessment covers seven framework validation items:
-
-1. Clarity of the framework concept
-2. Completeness of framework components
-3. Suitability of framework integration
-4. Relevance of indicators
-5. Process-flow integration
-6. Organizational applicability
-7. Clarity of framework outputs
-
-The expert responses are used for content validation, agreement analysis,
-reliability testing, Delphi consensus assessment, and applicability
-evaluation.
-
-## 3. Calculation Workbook
-
-The main calculation file is:
-
-2026-DSR kertas kerja Data & perhitungan - V 1.1.xlsx
-
-The workbook contains the following calculation modules:
-
-### Sheet Olah Data -Form Responses
-This sheet is data quesioner form 19  expert
-
-### Sheet 00 – Guide
-
-This sheet documents the calculation logic and formulas used throughout
-the analysis.
-
-The main calculations include:
-
-- Content Validity Ratio (CVR)
-- Scale-level Content Validity Index, Average (S-CVI/Ave)
-- Aiken's V
-- Cronbach's Alpha
-- Kendall's W
-- Delphi IQR
-- Applicability Gap
-- Applicability Level
-
-### Sheet 01 – Respondent Profile
-
-This sheet summarizes the expert respondents according to their expertise
-and professional background.
-
-The percentage of each respondent category is calculated as:
-
-Percentage = Number of respondents in category / Total respondents
-
-### Sheet 02 – CVR and S-CVI/Ave
-
-Content validity is evaluated using the Content Validity Ratio (CVR)
-and item-level Content Validity Index (I-CVI).
-
-The CVR formula is:
-
-CVR = (Ne - N/2) / (N/2)
-
-where:
-
-Ne = number of experts identifying an item as relevant
-
-N = total number of experts
-
-The I-CVI is calculated as:
-
-I-CVI = Ne / N
-
-The scale-level content validity is summarized using:
-
-S-CVI/Ave = Average(I-CVI)
-
-### Sheet 03 – Aiken's V
-
-Aiken's V is used to assess the degree of expert agreement regarding
-the relevance and adequacy of each framework item.
-
-The calculation is:
-
-V = Σs / [n(c - 1)]
-
-where:
-
-s = r - lo
-
-r = rating assigned by an expert
-
-lo = lowest possible rating
-
-n = number of experts
-
-c = number of response categories
-
-### Sheet 04 – Reliability and Consensus
-
-Three complementary analyses are provided.
-
-#### Cronbach's Alpha
-
-Cronbach's Alpha evaluates internal consistency of the seven-item
-assessment instrument.
-
-The calculation follows:
-
-α = k/(k-1) × [1 - Σσ²_item / σ²_total]
-
-where:
-
-k = number of items
-
-σ²_item = variance of each item
-
-σ²_total = total-score variance
-
-#### Kendall's W
-
-Kendall's coefficient of concordance is used to evaluate agreement
-among the participating experts.
-
-The calculation follows:
-
-W = S / [m²(n³-n)/12]
-
-where:
-
-m = number of experts
-
-n = number of items
-
-S = sum of squared deviations of item ranks
-
-#### Delphi IQR
-
-The Delphi consensus measure is calculated as:
-
-IQR = Q3 - Q1
-
-Consensus is considered achieved when:
-
-IQR ≤ 1
-
-### Sheet 05 – Validation Summary
-
-This sheet consolidates the principal validation results from the
-previous calculation sheets.
-
-The reported indicators include:
-
-- CVR
-- S-CVI/Ave
-- Aiken's V
-- Cronbach's Alpha
-- Kendall's W
-- Delphi IQR
-
-Each result is linked to its corresponding source calculation sheet.
-
-### Sheet 06 – Applicability Index and Gap Analysis
-
-The applicability assessment consists of eight dimensions:
-
-1. Strategic alignment
-2. IS/IT portfolio planning
-3. Enterprise architecture blueprint
-4. Governance objective mapping
-5. Risk and control integration
-6. Capability assessment
-7. Performance measurement
-8. Implementation roadmap
-
-The applicability gap is calculated as:
-
-Gap = Target - Current
-
-The current assessment values are compared with a target value of 85%.
-
-The resulting gaps are used to identify dimensions requiring further
-improvement.
-
-### Sheet 07 – Dashboard
-
-This sheet provides a consolidated view of:
-
-- Number of experts
-- CVR
-- S-CVI/Ave
-- Aiken's V
-- Cronbach's Alpha
-- Kendall's W
-- Delphi IQR
-- Average applicability
-- Average target
-- Average gap
-
-## 4. Reproduction Procedure
-
-To reproduce the reported calculations:
-
-1. Open the calculation workbook.
-2. Review the respondent data in the respondent-data sheet.
-3. Verify the number of valid expert responses.
-4. Review the seven validation items.
-5. Recalculate CVR and I-CVI.
-6. Calculate S-CVI/Ave from the item-level I-CVI values.
-7. Calculate Aiken's V using the expert rating matrix.
-8. Calculate Cronbach's Alpha from item-level variance and total-score
-   variance.
-9. Calculate Kendall's W using the expert ranking data.
-10. Calculate Delphi IQR from Q1 and Q3.
-11. Calculate the applicability index for each framework dimension.
-12. Calculate the gap using Target - Current.
-13. Review the consolidated results in the summary and dashboard sheets.
-
-## 5. Reproducibility Principle
-
-All reported statistics should be calculated from the original numerical
-responses rather than from rounded presentation values.
-
-For presentation purposes, numerical results may be rounded to two
-decimal places. The underlying calculations retain the original numerical
-precision.
-
-## 6. Data Integrity
-
-The repository preserves the calculation logic and data-processing
-structure used in the study. Before reproduction, users should verify
-that the number of relevant responses does not exceed the number of valid
-expert responses and that all formulas reference the intended response
-range.
-
-## 7. Scope and Interpretation
-
-The expert-validation results represent expert-assessed applicability
-and perceived implementation feasibility of PRASASTI. They should not be
-interpreted as direct evidence of organizational maturity, organizational
-readiness, or post-implementation performance.
-
-A real organizational implementation would be required to evaluate
-actual implementation outcomes, resource requirements, decision changes,
-and longitudinal performance.
-
-## 8. License and Citation
-
-Please cite the associated research article when using these materials.
-
-The repository is intended solely to support transparency,
-reproducibility, and verification of the reported calculations.
