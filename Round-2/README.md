@@ -4,7 +4,7 @@ Journal: International Journal of Intelligent Engineering and Systems (IJIES)
 
 This folder contains the revised manuscript, the point-by-point response to reviewers, and the supporting workbook for the PRASASTI study. This README is intended to help reviewers navigate the materials efficiently.
 1. Recommended review order
-1. Revised manuscript — review the current version of the paper and the changes made to its sections, tables, figures, and conclusions.
+1. Revised manuscript — review the current version of the paper and the changes made to its sections, tables, figures, and conclusions. https://github.com/bambangsuhartono/paper3inas/blob/main/Round-2/2026-Paper%203%20-%20DSR%20ITSP%20%20-%20Bambang%20%20S%20-%20Template%20IJIES%20-%20INASS%20-%20V%203.8gra%20(Eng)%20-%20Rev%202.2%20-%20Round%202.docx 
 2. Response to reviewers — locate each comment and follow the stated section, table, or figure reference in the manuscript.
 3. Research workbook — inspect the available data and calculations supporting the quantitative comparison.
 4. Similarty Document - https://github.com/bambangsuhartono/paper3inas/blob/main/Round-2/2026-Paper%203%20-%20DSR%20ITSP%20-%20Bambang%20S%20-%20Template%20IJIES%20-%20INASS%20-%20V%203.8gra%20(Eng)%20-%20Rev%202.2%20-%20Round%202.docx%20-%20Bambang%20Suhartono%20-%20iThenticate.pdf 
