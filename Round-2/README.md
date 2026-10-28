@@ -7,7 +7,7 @@ This folder contains the revised manuscript, the point-by-point response to revi
 1. Revised manuscript — review the current version of the paper and the changes made to its sections, tables, figures, and conclusions.
 2. Response to reviewers — locate each comment and follow the stated section, table, or figure reference in the manuscript.
 3. Research workbook — inspect the available data and calculations supporting the quantitative comparison.
-4. Similarty Document - 
+4. Similarty Document - https://github.com/bambangsuhartono/paper3inas/blob/main/Round-2/2026-Paper%203%20-%20DSR%20ITSP%20-%20Bambang%20S%20-%20Template%20IJIES%20-%20INASS%20-%20V%203.8gra%20(Eng)%20-%20Rev%202.2%20-%20Round%202.docx%20-%20Bambang%20Suhartono%20-%20iThenticate.pdf 
 Where similarly named manuscript files are present, please confirm the latest revision/version before reviewing or citing a file.
 2. File guide
 File	Purpose	Suggested reviewer action
